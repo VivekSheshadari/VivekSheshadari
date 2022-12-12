@@ -35,14 +35,14 @@ DevOps enthusiast, currently learning and working on Hybrid cloud Infrastructure
 </div>
 
 <div align="center">
-
+<!---
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivekSheshadari&include_all_commits=true&theme=dark&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=VivekSheshadari)
 </br>
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSheshadari&layout=compact&theme=dark&show_icons=true)](https://github.com/VivekSheshadari/github-readme-stats)
 </br>
 </br>
-
+--->
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=VivekSheshadari.VivekSheshadari" alt="visitor badge"/>
 </p>
